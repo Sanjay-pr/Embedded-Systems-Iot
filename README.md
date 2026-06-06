@@ -15,6 +15,6 @@ This repository serves as an active production log for a systematically deployed
 
 I am pushing and documenting one completed project prototype per day to track code refinement and system architecture iterations.
 
-Day          Project Name            Core Hardware Used              Primary Language          Description / Core Functionality
+Day----------Project Name------------Core Hardware Used--------------------Primary Language--------Description / Core Functionality
 
 Day 1        
